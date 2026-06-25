@@ -1,0 +1,6 @@
+ hl.on("hyprland.start", function () 
+   hl.exec_cmd("uwsm app -- hyprpaper")
+   hl.exec_cmd("systemctl --user stat hyprlandpolkitagent")
+   hl.exec_cmd("uwsm app -- waybar")
+   hl.exec_cmd("uwsm app -- swaync")
+ end)
