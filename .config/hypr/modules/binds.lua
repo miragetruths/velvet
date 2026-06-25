@@ -9,8 +9,8 @@ local editor 	  = "uwsm app -- codium"
 local music       = "uwsm app -- kitty -e rmpc"
 
 
-
-
+-- The Rofi Menu Used in this is by 'adi1090x/rofi'.
+-- You will have to check out his Repository For how to install the tool.
 ----------------------------------------------------------------------------------------------------------------------
 
 
