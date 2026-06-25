@@ -9,4 +9,28 @@
 
 </div>
 
-## Acknowledgments
+---
+
+### Folder Structure
+
+  ```text
+  velvet/
+  ├── .config/
+       ├── fastfetch/
+       ├── kitty/
+       └── hypr
+            ├── modules
+            │   ├── autostart.lua
+            │   ├── binds.lua
+            │   ├── decorations.lua
+            │   ├── env.lua
+            │   ├── input.lua
+            │   ├── layout.lua
+            │   ├── misc.lua
+            │   ├── monitors.lua
+            │   └── windowrules.lua
+            ├── hyprland.lua
+            └── hyprpaper.conf
+  ```
+
+---
