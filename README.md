@@ -17,8 +17,11 @@
   velvet/
   ├── .config/
        ├── fastfetch/
+       |    └── minimal.conf
        ├── kitty/
-       └── hypr
+       │    ├── kitty.conf
+       │    └── current-theme.conf
+       └── hypr/
             ├── modules
             │   ├── autostart.lua
             │   ├── binds.lua
